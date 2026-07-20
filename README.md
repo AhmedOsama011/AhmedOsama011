@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Osama
 
-<!--
-**AhmedOsama011/AhmedOsama011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ SOC Analyst | Blue Team | Network Security Engineer
 
-Here are some ideas to get you started:
+Fresh Graduate from the Faculty of Electronic Engineering with a strong passion for Cybersecurity, SOC Operations, Detection Engineering, and Security Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Fresh Graduate – Faculty of Electronic Engineering
+- 🛡️ Interested in SOC Operations & Blue Teaming
+- 🐳 Building Security Labs using Docker
+- ☁️ Learning Cloud Security
+- 🤖 Exploring Security Automation with n8n
+- 📚 Currently improving Detection Engineering skills
+
+---
+
+## 🛠️ Technical Skills
+
+### Security
+
+- Wazuh SIEM
+- MITRE ATT&CK
+- Incident Response
+- Threat Hunting
+- Log Analysis
+- Sysmon
+
+### Networking
+
+- CCNA
+- FortiGate Firewall
+- Network Security
+- Routing & Switching
+
+### Cloud
+
+- AWS Cloud Practitioner
+- AWS Academy
+
+### Operating Systems
+
+- Linux
+- Windows Server
+
+### DevOps
+
+- Docker
+- Docker Compose
+- Git
+- GitHub
+
+### Programming
+
+- Python
+- Bash
+
+---
+
+## 📂 Featured Projects
+
+### 🛡️ AI-Powered SOC Automation Lab
+
+Enterprise SOC Home Lab built using:
+
+- Wazuh SIEM
+- Docker
+- Windows 10
+- Kali Linux
+- Sysmon
+- n8n Automation
+
+🔗 https://github.com/AhmedOsama011/wazuh-soc-lab
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner
+- AWS Academy Cloud Architecting
+- Security+
+- Huawei Cloud Computing
+- Red Hat Administration
+- CCNA
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/AhmedOsama011
+
+---
+
+⭐ Thanks for visiting my profile!
