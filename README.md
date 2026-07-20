@@ -94,3 +94,44 @@ Enterprise SOC Home Lab built using:
 ---
 
 ⭐ Thanks for visiting my profile!
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,git,github,aws,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedOsama011&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOsama011&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AhmedOsama011&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedOsama011&theme=tokyonight&margin-w=15"/>
+
+</p>
